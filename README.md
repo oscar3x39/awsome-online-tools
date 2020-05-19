@@ -27,6 +27,6 @@
 <img src="http://g.recordit.co/8zbtLAffX6.gif" width="250">
 
 # Security
-- [pentest-tools](https://pentest-tools.com) `Pentest-Tools.com allows you to quickly discover and report vulnerabilities in websites and network infrastructures. We provide a set of powerful and tightly integrated pentesting tools which enable you to perform easier, faster and more effective pentest engagements.`
+- [Pentest Tools](https://pentest-tools.com) `Pentest-Tools.com allows you to quickly discover and report vulnerabilities`
 
-<img src="https://pentest-tools.com/template_unauth/images/dashboard_laptop.png?uncache=43" width="250">
+<img src="https://pentest-tools.com/template_unauth/images/dashboard_laptop.png?uncache=43" width="300">
