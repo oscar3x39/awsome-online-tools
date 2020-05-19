@@ -30,3 +30,5 @@
 - [Pentest Tools](https://pentest-tools.com) `Pentest-Tools.com allows you to quickly discover and report vulnerabilities`
 
 <img src="https://pentest-tools.com/template_unauth/images/dashboard_laptop.png?uncache=43" width="300">
+
+- [Security Headers](https://securityheaders.com) `quick and easy way to check if other sites were using these headers`
