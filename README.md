@@ -14,7 +14,7 @@
 
 - [Visual Paradigm](https://online.visual-paradigm.com/tw/diagrams/features/aws-architecture-diagram-tool)
 > Online AWS architecture software
-![image](https://online.visual-paradigm.com/tw/images/features/aws-architecture-diagram-tool/01-aws-architecture-diagram.png)
+<img src="https://online.visual-paradigm.com/tw/images/features/aws-architecture-diagram-tool/01-aws-architecture-diagram.png" width="500" onerror="console.log('error')">
 
 ## Database
 - [dbdiagram](https://dbdiagram.io)
