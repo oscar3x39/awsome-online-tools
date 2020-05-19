@@ -9,7 +9,8 @@
 - [Cloudcraft](https://cloudcraft.co)
 > Create smart AWS diagrams
 > Visualize your cloud architecture like a pro
-![image](https://cloudcraft.co/images/awseditor4.png)
+
+<img src="https://cloudcraft.co/images/awseditor4.png" width="500">
 
 - [Visual Paradigm](https://online.visual-paradigm.com/tw/diagrams/features/aws-architecture-diagram-tool)
 > Online AWS architecture software
@@ -19,4 +20,6 @@
 - [dbdiagram](https://dbdiagram.io)
 > A free, simple tool to draw ER diagrams by just writing code.
 Designed for developers and data analysts.
-![image](https://dbdiagram.io/static/img/dbdiagram-demo.0791273.gif)
+
+
+<img src="https://dbdiagram.io/static/img/dbdiagram-demo.0791273.gif" width="500">
