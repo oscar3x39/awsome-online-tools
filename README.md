@@ -6,6 +6,7 @@
 - [Database](#Database)
 - [Report](#Report)
 - [Security](#Security)
+- [Others](#Others)
 
 ## Architecture
 - [Cloudcraft](https://cloudcraft.co) `Create smart AWS diagrams`
@@ -32,3 +33,6 @@
 <img src="https://pentest-tools.com/template_unauth/images/dashboard_laptop.png?uncache=43" width="300">
 
 - [Security Headers](https://securityheaders.com) `quick and easy way to check if other sites were using these headers`
+
+# Others
+- [Licenses](https://choosealicense.com/licenses) `An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.`
